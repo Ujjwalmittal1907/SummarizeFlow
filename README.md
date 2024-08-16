@@ -1,4 +1,4 @@
-Video Summarizer
+SummarizeFlow:-
 Video Summarizer is a web-based application that allows users to upload a long video and receive a summarized version of it. The application is built using Django for the backend and leverages NLP (Natural Language Processing) models to analyze and summarize the video content.
 
 Features
